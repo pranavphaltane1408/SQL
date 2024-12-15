@@ -47,4 +47,25 @@ and sales revenues.
 This Vehicle Sales Analysis project not only highlights key business opportunities but also improves understanding of sales 
 trends and customer behavior, enabling more effective targeting, pricing, and sales strategies.
 
+# Report Snapshots : 
+![1](https://github.com/user-attachments/assets/7a5cd10c-fecd-4885-9d62-2a7256581d34)
+![2](https://github.com/user-attachments/assets/18787164-1dc8-4133-a53e-0fcd283db9cf)
+![3](https://github.com/user-attachments/assets/2af8e8c3-44d9-4a57-b57b-653a03606353)
+![4](https://github.com/user-attachments/assets/1dfaf887-2ce1-4cd2-8980-29d40f35edf5)
+![5](https://github.com/user-attachments/assets/6f011194-d9f3-46d6-bf98-e03978d508a7)
+![6](https://github.com/user-attachments/assets/f766b57f-2135-4f53-b27d-ddb359737405)
+![7](https://github.com/user-attachments/assets/f9a0346a-7eff-469b-a37f-b5e1fe1030d2)
+![8](https://github.com/user-attachments/assets/3e9f370e-395d-424e-bf62-680bbfccbf81)
+![9](https://github.com/user-attachments/assets/807d7b14-af23-43be-b83f-87041abd3966)
+![10](https://github.com/user-attachments/assets/18bb213e-9f89-4314-afc9-7e20d4f297db)
+![11](https://github.com/user-attachments/assets/20609191-2b4e-4596-aa01-7f51ef3e8164)
+![12](https://github.com/user-attachments/assets/af1d7e88-d906-4680-9801-f79b4345a6e1)
+![13](https://github.com/user-attachments/assets/bc6551d5-4919-43a4-9510-6b81a09fd83f)
+![14](https://github.com/user-attachments/assets/4ee92e08-9e69-4bff-b9a3-d3205b05d67b)
+![15](https://github.com/user-attachments/assets/24407fdc-d88e-4985-b8ce-4a0f272d4984)
+![16](https://github.com/user-attachments/assets/12ab748b-aff4-499a-9abc-f18e4b07008c)
+![17](https://github.com/user-attachments/assets/c078ff1e-64de-4ce0-af08-b5fe3c8a0e00)
+![18](https://github.com/user-attachments/assets/68e1b87b-2e9b-4936-a620-4030393a239d)
+![19](https://github.com/user-attachments/assets/03bd9315-5a4b-41a4-9099-923da636e934)
+
 
